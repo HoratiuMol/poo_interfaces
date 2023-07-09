@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="614dc23a-313b-448c-a58c-436a578259ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Imprimible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Pagina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="614dc23a-313b-448c-a58c-436a578259ef" name="Changes" comment="gsag">
+      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/EjemploImprenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/EjemploImprenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Curriculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Curriculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Hoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Hoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Imprimible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Imprimible.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Informe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Informe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/imprenta/modelo/Libro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688920210965</updated>
     </task>
+    <task id="LOCAL-00001" summary="gsag">
+      <created>1688922561944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688922561944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gsag" />
+    <option name="LAST_COMMIT_MESSAGE" value="gsag" />
   </component>
 </project>

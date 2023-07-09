@@ -1,5 +1,7 @@
 package org.hmoldovan.poointerfaces.imprenta.modelo;
 
 public interface Imprimible {
-    public String imprimir();
+    default String imprimir(){
+        return "Imprimiendo un valor";
+    }
 }
